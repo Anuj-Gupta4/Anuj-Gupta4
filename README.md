@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/4388anujgupta" target="blank"><img src="https://img.shields.io/twitter/follow/4388anujgupta?logo=twitter&style=for-the-badge" alt="4388anujgupta" /></a> </p>
 
+- 📝 I write articles on [https://medium.com/@anujgupta.4388](https://medium.com/@anujgupta.4388)
+
 - 📫 How to reach me **anujgupta.4388@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
