@@ -27,3 +27,29 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-gupta4&theme=algolia" /></p>
+<br>
+
+<h3>Some Recent Projects:</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Technologies</th>
+</tr>
+</thead>
+  
+<tbody>
+<tr>
+<td><a href="https://github.com/Anuj-Gupta4/RealEstateApp">Real Estate Price Prediction Website</a></td>
+<td> Machine Learning</br> Django</td>
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+<td><a href="https://github.com/Anuj-Gupta4/open-news-api-backend">Open News Portal</a></td>
+<td> Backend only </br> Django </td>
+</tr>
+</tbody>
+
+</table>
