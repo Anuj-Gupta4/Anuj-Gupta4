@@ -26,8 +26,7 @@
 
 <br>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-gupta4&theme=algolia" /></p> -->
-<!-- <br> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-gupta4&theme=algolia" /></p>
 
 <h3>Some Recent Projects:</h3>
 <table>
