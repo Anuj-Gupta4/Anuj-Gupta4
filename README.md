@@ -31,4 +31,27 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuj-gupta4&show_icons=true&locale=en&layout=compact" alt="anuj-gupta4" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-gupta4&" alt="anuj-gupta4" /></p>
+<h3>Some Projects:</h3>
+<table>
+<thead>
+<tr>
+<th>Title</th>
+<th>Technologies</th>
+</tr>
+</thead>
+  
+<tbody>
+<tr>
+<td><a href="https://github.com/Anuj-Gupta4/RealEstateApp">Real Estate Price Prediction & E-Commerce Website</a></td>
+<td> Machine Learning</br> Django</td>
+</tr>
+</tbody>
 
+<tbody>
+<tr>
+<td><a href="https://github.com/Anuj-Gupta4/open-news-api-backend">Open News Portal</a></td>
+<td> Backend only </br> Django </td>
+</tr>
+</tbody>
+
+</table>
