@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@anujgupta.4388](https://medium.com/@anujgupta.4388)
 
-- 💬 Ask me about **Python, Django, Backend, AI**
+- 💬 Ask me about **Python, Django, FastAPI, Backend, AI**
 
 - 📫 How to reach me **anujgupta.4388@gmail.com**
 
